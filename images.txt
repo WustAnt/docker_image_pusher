@@ -1,2 +1,2 @@
 emqx
-python:alpine3.19
+node-red
